@@ -1,0 +1,29 @@
+{
+  "name": "carlsby-blue-dark",
+  "displayName": "Carlsby Blue Dark",
+  "description": "A theme tailored for Carlsby",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "carlsby",
+    "blue"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Carlsby Blue Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Carlsby Blue Dark-color-theme.json"
+      }
+    ]
+  },
+"icon": "images/carlsby_blue.png"
+}
