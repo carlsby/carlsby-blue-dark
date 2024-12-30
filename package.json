@@ -3,7 +3,7 @@
   "displayName": "Carlsbys Blue Dark",
   "description": "A theme tailored for Carlsby",
   "publisher": "Carlsby",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -30,5 +30,5 @@
       }
     ]
   },
-"icon": "images/carlsby_blue.png"
+  "icon": "images/carlsby_blue.png"
 }
