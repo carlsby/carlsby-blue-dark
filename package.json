@@ -1,7 +1,8 @@
 {
-  "name": "carlsby-blue-dark",
-  "displayName": "Carlsby Blue Dark",
+  "name": "carlsbys-blue-dark",
+  "displayName": "Carlsbys Blue Dark",
   "description": "A theme tailored for Carlsby",
+  "publisher": "Carlsby",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
@@ -16,6 +17,10 @@
     "carlsby",
     "blue"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlsby/carlsby-blue-dark.git"
+  },
   "contributes": {
     "themes": [
       {
